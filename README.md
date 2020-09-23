@@ -1,2 +1,2 @@
 # hello-world
-Test Repasitory
+Test Repository
